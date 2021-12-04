@@ -59,9 +59,6 @@ h1 {
   font-size: 16px;
   cursor: pointer;
 }
-.option-green {
-  background-color: rgba(0, 200, 0, 0.3);
-}
 .option span {
   display: flex;
   justify-content: center;
@@ -128,7 +125,7 @@ footer {
 }
 
 @media (max-width: 450px) {
-  .questionArea {
+  .question {
     max-width: 300px;
     width: 100%;
   }
