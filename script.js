@@ -5,10 +5,9 @@ let correctAnswers = 0
 
  document.querySelector('.scoreArea button').addEventListener('click', resetEvent)
 
-
  function showQuestion(){
      if(questions[currentQuestion]) {
-         var q = questions[currentQuestion]
+         let q = questions[currentQuestion]
 
          let pct = Math.floor((currentQuestion / questions.length) * 100)
          document.querySelector('.progress--bar').style.width = `${pct}%`
@@ -27,6 +26,7 @@ let correctAnswers = 0
 
          document.querySelectorAll('.options .option').forEach(item =>{
              item.addEventListener('click', optionClickEvent)
+             
          })
 
      } else {

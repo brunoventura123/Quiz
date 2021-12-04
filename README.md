@@ -1,6 +1,6 @@
 ## Olá eu sou o Bruno Ventura! 🖐️
 
-### Esse projeto foi feito usando HTML5, CSS3 e JS.
+### Esse projeto foi feito em aula usando HTML5, CSS3 e JS.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
@@ -21,6 +21,6 @@
 <img align="center" alt"HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/><br/>
 
-
 ## Entre em contato pelo e-mail abaixo:
+
 - https://mail.google.com/mail/u/0/#inbox
